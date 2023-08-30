@@ -1,0 +1,54 @@
+.loginContainer {
+  background-color: #272727;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loginCard {
+  background-color: black;
+  width: 35vw;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  height: 50vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+label {
+  color: whitesmoke;
+  font-size: 20px;
+}
+.input {
+  height: 34px;
+  width: 400px;
+  margin-top: 10px;
+}
+.loginImg {
+  width: 150px;
+  text-align: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.placeholder {
+  color: red;
+}
+.input1 {
+  background-color: #6366f1;
+  height: 30px;
+  width: 400px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-weight: 600;
+}
+::-moz-placeholder {
+  color: red;
+}

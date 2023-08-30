@@ -1,0 +1,37 @@
+.nav {
+  background-color: rgb(46, 40, 40);
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navImg {
+  width: 120px;
+  margin-left: 20px;
+}
+.para {
+  color: white;
+  font-weight: 500;
+  font-size: 15px;
+  margin-right: 30px;
+}
+.btn {
+  height: 30px;
+  width: 130px;
+  background-color: #6366f1;
+  border: none;
+  border-radius: 3px;
+  margin-right: 30px;
+  color: whitesmoke;
+  font-weight: 700;
+  margin-left: 30px;
+}
+.lastNav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.link {
+  text-decoration: none;
+}

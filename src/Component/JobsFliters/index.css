@@ -1,0 +1,106 @@
+.jobConatiner {
+  background-color: black;
+  height: 90vh;
+  padding: 20px;
+  display: flex;
+}
+.profileContainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  width: 25vw;
+  height: 30vh;
+  background-size: cover;
+  padding: 10px;
+  border-radius: 20px;
+}
+.name {
+  color: #b6c5ff;
+  font-size: 25px;
+  font-weight: 600;
+}
+.hr {
+  width: 25vw;
+}
+.profileContainer1 {
+  width: 15vw;
+  height: 10vh;
+
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.che {
+  font-size: 40px;
+  width: 30px;
+  font-size: 100px;
+}
+.list1Container {
+  padding: 0px;
+}
+.para {
+  margin-left: 10px;
+}
+.jobItems {
+  margin-left: 10px;
+}
+
+.icon {
+  background-color: white;
+  height: 32px;
+  width: 30px;
+  margin-top: 10px;
+}
+
+.inp {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.jobImg {
+  width: 50px;
+}
+
+.liMap {
+  background-color: rgb(36, 30, 30);
+  width: 65vw;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}
+li {
+  list-style-type: none;
+}
+.container {
+  max-height: 80vh;
+  overflow: auto;
+}
+
+.container::-webkit-scrollbar {
+  display: none;
+}
+
+.firstPart {
+  display: flex;
+  align-items: center;
+}
+.iconing {
+  color: goldenrod;
+  margin-top: 30px;
+  margin-right: 10px;
+}
+.location {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.para1 {
+  color: white;
+  text-align: end;
+  margin-left: 30vw;
+}
+.header {
+  font-size: 20px;
+  color: wheat;
+  margin-left: 10px;
+}
